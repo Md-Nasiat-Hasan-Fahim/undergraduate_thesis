@@ -1,6 +1,6 @@
 ## Undergraduate Thesis
 
-**Author**: Md Nasiat Hasan Fahim  
+**Author**: Md Nasiat Hasan Fahim, Abid Ullah Muhib
 **Repository**: `undergraduate_thesis`
 
 This repository contains the materials and development work for the undergraduate thesis of **Md Nasiat Hasan Fahim**.
@@ -35,6 +35,6 @@ As the work progresses, this README will be updated with:
 
 ### Acknowledgements
 
-The work in this repository is part of the undergraduate thesis of **Md Nasiat Hasan Fahim**. Any institutional guidelines, supervisor instructions, or collaboration details can be added here later.
+The work in this repository is part of the undergraduate thesis of **Md Nasiat Hasan Fahim & Abid Ullah Muhib**. Any institutional guidelines, supervisor instructions, or collaboration details can be added here later.
 
 
