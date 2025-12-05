@@ -3,7 +3,7 @@
 **Author**: Md Nasiat Hasan Fahim, Abid Ullah Muhib
 **Repository**: `undergraduate_thesis`
 
-This repository contains the materials and development work for the undergraduate thesis of **Md Nasiat Hasan Fahim & Abid Ullah Muhib**.
+This repository contains the materials and development work for the undergraduate thesis of **Md Nasiat Hasan Fahim & Md. Abid Ullah Muhib**.
 
 ### Overview
 
